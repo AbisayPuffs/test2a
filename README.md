@@ -2,6 +2,7 @@
 
 Este repositorio contiene info acerca del tema 3 de la asignatura de probabilidad y estadistica.
 
-Gerardo Abisay Pérez Pérez
-240110118
-240110118@itsoeh.edu.mx
+# Datos del Usuario
+- Gerardo Abisay Pérez Pérez
+- 240110118
+- 240110118@itsoeh.edu.mx
